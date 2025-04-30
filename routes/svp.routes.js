@@ -13,7 +13,7 @@ import {
     UpdateDriveDetails,
     DeleteDriveDetails,
     GetVaccinationReport,
-    DownloadReport} from '../controllers/login.controllers'
+    DownloadReport} from '../controllers/login.controllers.js'
 
 const router = express.Router()
 
